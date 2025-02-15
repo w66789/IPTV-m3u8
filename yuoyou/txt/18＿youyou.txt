@@ -1,14 +1,14 @@
 ﻿{
     "spider": "https://github.com/dlgt7/maoTV/blob/main/wqcatyuanban.jar",
     "sites": [    
-    {"key":"guochanyouyourihanAV","name":"🍑国产幼幼日韩AV🍑","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://codeberg.org/w1649267580/youyou/raw/commit/1a0091c4d589e3ecdf0f691930999c0de580c406/txt/1.txt"},
+    {"key":"guochanyouyourihanAV","name":"🍑国产幼幼日韩AV🍑","type":3,"api":"https://my9.ltd/tv/js/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/w66789/IPTV-m3u8/refs/heads/main/yuoyou/txt/01.json"},
 {"key":"csp_xml_光速资源","name":"🐝光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_小猫咪","name":"💢小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"},
     {
       "key": "guochanyouyourihan.AV",
       "name": "🔞国产幼幼日韩AV2🔞",
       "type": 1,
-      "api": "https://codeberg.org/w1649267580/youyou/raw/commit/2ddcf4cfeb8560c22b0135acada8f241a470f735/快手赵小贝视频/1.json?ac=list",
+      "api": "https://raw.githubusercontent.com/w66789/IPTV-m3u8/refs/heads/main/yuoyou/txt/1.json/?ac=list",
       "searchable": 1
     },
     {
